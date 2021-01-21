@@ -6,4 +6,3 @@
 启动网络并安装链码：./start.sh
 清除网络：./stop.sh
 
-注：父目录名称resource不可改变。# fabric2.x_threeorderers
